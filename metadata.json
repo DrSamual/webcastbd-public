@@ -1,0 +1,6 @@
+{
+  "name": "WebCast BD - Live Sports, TV & Movies",
+  "description": "Modern, mobile-responsive live sports streaming, TV channels, and movies platform with multi-server playback, live match countdowns, and real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
